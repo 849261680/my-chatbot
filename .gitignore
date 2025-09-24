@@ -10,6 +10,6 @@ wheels/
 .venv
 
 # Chat history and state
-*.md
+chat_*.md
 .last_prompt
 .env
